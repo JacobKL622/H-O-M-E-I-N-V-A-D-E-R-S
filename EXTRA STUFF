@@ -1,0 +1,7 @@
+wn.register_shape("currentobjective.gif")
+
+co = turtle.Turtle()
+co.speed(0)
+co.shape("currentobjective.gif")
+co.penup()
+co.setposition(0,0)
